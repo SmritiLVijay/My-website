@@ -1,0 +1,586 @@
+body {
+  background-color: #423F3E;
+  text-align: center;
+}
+a{
+  font-family: monospace;
+  font-weight: normal;
+}
+
+
+
+h1 {
+    font-family: "Montserrat";
+    font-size: 3rem;
+    line-height: 1.5;
+    font-weight: 900;
+    width: 105%
+  }
+
+  h2 {
+    padding-top: 50px;
+    font-family: Montserrat;
+    font-weight: 700;
+    line-height: 1.5;
+    font-size: 7rem;
+    text-align: left;
+  }
+
+  /* h3 {
+    font-family:  monospace;
+    font-size: 1.5rem;
+    font-weight: 400;
+    padding-top: 2rem;
+    color: #FFD8A9;
+    text-shadow: 0 1px 2px rgba(0,0,0,0.07),
+                0 2px 4px rgba(0,0,0,0.07),
+                0 4px 8px rgba(0,0,0,0.07),
+                0 8px 16px rgba(0,0,0,0.07),
+                0 16px 32px rgba(0,0,0,0.07),
+                0 32px 64px rgba(0,0,0,0.07);
+
+  } */
+
+/* .card-one {
+
+    height:440px; */
+    /* margin-right: 100px;
+    margin-left: 700px; */
+    /* background: url("images/6c.jpg") no-repeat;
+    background-position: top;
+    background-size: 100%;
+
+
+  } */
+.container-2{
+  padding:0 10% 5%;
+
+
+}
+
+.test{
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+  border-radius: 3%;
+  color: #E2C275;
+  font-family:  monospace;
+  font-size: 1.5rem;
+  font-weight: 400;
+  padding-top: 2rem;
+
+  text-shadow: 0 1px 2px rgba(0,0,0,0.07),
+              0 2px 4px rgba(0,0,0,0.07),
+              0 4px 8px rgba(0,0,0,0.07),
+              0 8px 16px rgba(0,0,0,0.07),
+              0 16px 32px rgba(0,0,0,0.07),
+              0 32px 64px rgba(0,0,0,0.07);
+}
+
+.test:hover{
+  background:linear-gradient(to right bottom, rgb(249, 170, 122), rgb(221, 118, 14));
+  font-family:  monospace;
+  font-size: 1.5rem;
+  font-weight: 400;
+  padding-top: 2rem;
+  color: #4A403A;
+  text-shadow: 0 1px 2px rgba(0,0,0,0.07),
+              0 2px 4px rgba(0,0,0,0.07),
+              0 4px 8px rgba(0,0,0,0.07),
+              0 8px 16px rgba(0,0,0,0.07),
+              0 16px 32px rgba(0,0,0,0.07),
+              0 32px 64px rgba(0,0,0,0.07);
+}
+
+.container-3{
+  padding: 5% 10%;
+  margin-top: 10%;
+
+
+    box-shadow:  rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+border-radius: 3%;
+
+font-family:  monospace;
+font-size: 1.5rem;
+font-weight: 400;
+padding-top: 2rem;
+color: #FFD8A9;
+text-shadow: 0 1px 2px rgba(0,0,0,0.07),
+            0 2px 4px rgba(0,0,0,0.07),
+            0 4px 8px rgba(0,0,0,0.07),
+            0 8px 16px rgba(0,0,0,0.07),
+            0 16px 32px rgba(0,0,0,0.07),
+            0 32px 64px rgba(0,0,0,0.07);
+}
+
+.container-3:hover{
+  padding: 5% 10%;
+  margin-top: 10%;
+  background:linear-gradient(to right bottom, rgb(249, 170, 122), rgb(221, 118, 14));
+  font-family:  monospace;
+  font-size: 1.5rem;
+  font-weight: 400;
+  padding-top: 2rem;
+  color: #4A403A;
+  text-shadow: 0 1px 2px rgba(0,0,0,0.07),
+              0 2px 4px rgba(0,0,0,0.07),
+              0 4px 8px rgba(0,0,0,0.07),
+              0 8px 16px rgba(0,0,0,0.07),
+              0 16px 32px rgba(0,0,0,0.07),
+              0 32px 64px rgba(0,0,0,0.07);
+}
+
+.container-4{
+  padding: 5% 10%;
+  margin:3% 20% 20%;
+
+
+    box-shadow:  rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+  border-radius: 3%;
+
+  font-family:  monospace;
+  font-size: 1.5rem;
+  font-weight: 400;
+  padding-top: 2rem;
+
+  text-shadow: 0 1px 2px rgba(0,0,0,0.07),
+            0 2px 4px rgba(0,0,0,0.07),
+            0 4px 8px rgba(0,0,0,0.07),
+            0 8px 16px rgba(0,0,0,0.07),
+            0 16px 32px rgba(0,0,0,0.07),
+            0 32px 64px rgba(0,0,0,0.07);
+}
+
+.container-4:hover{
+  padding: 5% 10%;
+  margin:3% 20% 20%;
+  background:linear-gradient(to right bottom, rgb(249, 170, 122), rgb(221, 118, 14));
+  font-family:  monospace;
+  font-size: 1.5rem;
+  font-weight: 400;
+  padding-top: 2rem;
+
+  text-shadow: 0 1px 2px rgba(0,0,0,0.07),
+              0 2px 4px rgba(0,0,0,0.07),
+              0 4px 8px rgba(0,0,0,0.07),
+              0 8px 16px rgba(0,0,0,0.07),
+              0 16px 32px rgba(0,0,0,0.07),
+              0 32px 64px rgba(0,0,0,0.07);
+}
+/* .card-one:hover {
+    background: url("images/6b.PNG") no-repeat;
+    height:440px; */
+    /* margin-right: 100px;
+    margin-left: 700px; */
+    /* background-position: top;
+    background-size: 100%;
+
+} */
+.card-one {
+
+    height:800px;
+
+    background: url("images/6cd.jpg") no-repeat;
+    background-position: top;
+    background-size: contain;
+
+
+  }
+/*
+.card-one:hover {
+    background: url("images/6bd.PNG") no-repeat;
+    height:1000px;
+
+    background-position: top;
+    background-size: 100%;
+
+} */
+.card-two {
+
+
+
+    background: url("images/5b.jpg") no-repeat;
+    background-position: center;
+
+
+  }
+
+  .layer {
+      background-color: #E6E6E6;
+      opacity: 0.5;
+      top: 0;
+      left: 0;
+      width: 50%;
+      height: 90%;
+      margin:0 315px;
+      background-position: contain;
+
+
+
+
+  }
+.card-two:hover {
+  height:700px;
+margin-bottom: 50px;
+  background: url("images/5c.jpg") no-repeat;
+  background-position: center;
+
+}
+
+.card-three {
+    height:500px;
+    background: url("images/phone.png") no-repeat;
+  }
+
+.card-three:hover {
+    background: url("images/4c.jpg") no-repeat;
+}
+
+.banner {
+  height: 450px;
+}
+
+.banner-text{
+  background-color: white;
+}
+
+#title {
+
+  color: #fff;
+  z-index: 0;
+
+}
+
+
+.container-fluid {
+  padding-left: 15%;
+  padding-right: 15%;
+}
+
+/* Navigation bar */
+
+.navbar-brand {
+  font-family: Ubuntu;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.navbar  {
+  padding:2rem 0 ;
+
+}
+
+.text{
+  background-color: #FDB827;
+  color: black;
+  font-family: monospace;
+  height: 317px;
+  width: 100%;
+  padding: 50px;
+  margin: 0;
+  border-radius: 5%;
+  box-shadow: 5px 10px white;
+
+}
+
+.text:hover{
+  background-color: white;
+  font-family: monospace;
+  height: 317px;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  border-radius: 5%;
+  color: black;
+  box-shadow: 5px 10px grey;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-weight: 400;
+}
+
+
+
+
+
+#footer {
+  text-align: center;
+  padding: 7% 15%;
+
+}
+
+
+
+.social-media-icons {
+  padding: 10px;
+
+  color:#4A403A;
+}
+
+.social-media-icons:hover{
+
+  color:#FFD8A9
+}
+
+
+.typewriter h1 {
+  color: #fff;
+  font-family: monospace;
+  overflow: hidden; /* Ensures the content is not revealed until the animation */
+  border-right: .10em solid orange; /* The typwriter cursor */
+  white-space: nowrap; /* Keeps the content on a single line */
+  margin: 0 auto; /* Gives that scrolling effect as the typing happens */
+  letter-spacing: 0.05em; /* Adjust as needed */
+  animation:
+    typing 3.5s steps(30, end),
+    blink-caret .5s step-end infinite;
+}
+
+/* The typing effect */
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}
+
+/* The typewriter cursor effect */
+@keyframes blink-caret {
+  from, to { border-color: transparent }
+  50% { border-color: orange }
+}
+
+
+
+body {
+  padding: 0;
+  margin: 0;
+  min-height: 500vh;
+  background-color: #423F3E;
+  animation: body 1s linear;
+}
+@keyframes body {
+  to {
+    background-color: #C5A880;
+  }
+}
+
+.progress {
+  height: 3px;
+  width: 0%;
+  background-color:#C5A880 ;
+  position: fixed;
+  top: 0;
+  left: 0;
+  animation: progress 1s linear;
+}
+@keyframes progress {
+  to {
+    background-color: #FFB319;
+    width: 100%;
+  }
+}
+
+
+
+
+
+:root * {
+  /* Pause the animation */
+  animation-play-state: paused;
+  /* Bind the animation to scroll */
+  animation-delay: calc(var(--scroll) * -1s);
+  /* These last 2 properites clean up overshoot weirdness */
+  animation-iteration-count: 1;
+  animation-fill-mode: both;
+}
+
+/* body {
+  margin: 0;
+  padding: 0;
+} */
+section#hero {
+  height: 90%;
+  width: auto;
+  margin: 0 5%;
+
+}
+
+section#hero > div {
+  position: absolute;
+  background-position:center;
+  width: 90%;
+  height: 90%;
+  background-size: cover;
+
+  transition: opacity 2s ease;
+}
+
+#black {
+  background-image: url("images/5b.jpg");
+  opacity: 1;
+  border-radius: 3%;
+
+}
+#colored {
+  background-image: url("images/5c.jpg");
+  opacity: 0;
+  border-radius: 3%;
+  border-style: dotted;
+  border-color: #C5A880;
+}
+
+.word {
+  margin: 0;
+  padding-left:7%;
+  padding-top: 15%;
+  padding-bottom: 0;
+  padding-right: 0;
+  color: white;
+  font: 400 normal 0.5em ;
+  font-family: 'Xanh Mono', monospace;
+  font-size: 2rem;
+  height:500px;
+  width:300px;
+
+
+}
+
+.word:hover{
+  color: black;
+}
+
+hr {
+    border-style: dotted none none;
+    border-color: #DFBB9D;
+    border-width: 6px;
+    width: 4%;
+    margin: auto;
+    padding-bottom: 10%;
+}
+
+.girl{
+  float: centre;
+  height: 550px;
+  padding: 3%;
+
+}
+
+
+.neonText {
+  animation: flicker 1.5s infinite alternate;
+  color: #fff;
+  font-family: 'Xanh Mono', monospace;
+  font-size: 2rem;
+  font-weight: 400;
+}
+
+
+
+/* Flickering animation */
+@keyframes flicker {
+
+  0%, 18%, 22%, 25%, 53%, 57%, 100% {
+
+      text-shadow:
+      0 0 4px #fff,
+      0 0 11px #fff,
+      0 0 19px #fff,
+      0 0 40px #FFF80A,
+      0 0 80px #FFF80A,
+      0 0 90px #FFF80A,
+      0 0 100px #A62349,
+      0 0 150px #A62349;
+
+      letter-spacing: 0.1rem;
+
+  }
+
+  20%, 24%, 55% {
+      text-shadow: none;
+  }
+}
+
+.cursors{
+
+  align-items: center;
+  gap: 2px;
+}
+
+@keyframes cursor-blink {
+  0% {
+    opacity: 0;
+  }
+}
+
+.cursors::after {
+  content: "";
+  width: 0.1em;
+  height: 20px;
+  background: white;
+  display: inline-block;
+  animation: cursor-blink 0.5s steps(2) infinite;
+}
+
+.phone{
+  height:100%;
+  align-items: left;
+  padding-top:70px;
+}
+
+.qual{
+  padding:5% 2% 5% 5%;
+}
+
+.icons{
+  text-align: left;
+  padding-top: 20%;
+}
+
+.icons{
+  margin-top:20%;
+}
+
+footer{
+
+  font-family:  monospace;
+  /* background-color:#FFB319; */
+  font-weight: 400;
+
+  color: #4A403A;
+  text-shadow: 0 1px 2px rgba(0,0,0,0.07),
+              0 2px 4px rgba(0,0,0,0.07),
+              0 4px 8px rgba(0,0,0,0.07),
+              0 8px 16px rgba(0,0,0,0.07),
+              0 16px 32px rgba(0,0,0,0.07),
+              0 32px 64px rgba(0,0,0,0.07);
+}
+
+@media (max-width:1028px) {
+
+  #title {
+    text-align: center;
+  }
+
+  .card-one {
+
+      height: 330px;
+      background-image: url("images/6cd1.jpg") ;
+
+      /* background-position: center; */
+
+    }
+
+  /* .card-one:hover {
+      background: url("images/6c.jpg") no-repeat;
+      margin: 50px;
+
+      background-size: contain;
+  } */
+
+.icons{
+  margin-top: 0;
+  padding-top: 0;
+}
+}
